@@ -1,6 +1,5 @@
 # Moein Abdolahi
-# 💫 About Me:
-🔭 I’m currently working on Karlancer a iranian freelancing website<br>🌱 I’m currently learning deep learning<br>💬 Ask me about Machine learning and data science topics<br>⚡ Fun fact Data scientists are sometimes called "unicorns" because finding someone with a blend of math, programming, and business acumen is rare.
+# 💫 About Me: I’m currently learning deep learning<br>💬 Ask me about Machine learning and data science topics<br>⚡ Fun fact Data scientists are sometimes called "unicorns" because finding someone with a blend of math, programming, and business acumen is rare.
 
 
 ## 🌐 Socials:
